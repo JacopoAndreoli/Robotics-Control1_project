@@ -1,2 +1,2 @@
 # Robotics-Control1_project
-Project consisting into the control of a SCARA robot manipulator and derivation of kinematics and dynamics for UR10 robot. Solution built using the MATlab framework
+Evaluation of control schemes regarding robotics manipulator seen during lessons; understading the trade-offs between complexity and tracking accuracy and appropriately gain tuning. Identification of stability issues that could arise in case of singularity conditions or ill-posed initial coonditions
